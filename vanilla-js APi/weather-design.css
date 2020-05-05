@@ -6,12 +6,13 @@
 
 body {
     font-family: sans-serif;
-    background-image: url('./holly-mandarich-UVyOfX3v0Ls-unsplash.jpg');
+    background-image: url('./image.jpg');
     background-size: cover;
     background-position: top center;
 }
-.container-app {
 
+.container-app {
+     
     display: flex;
     flex-direction: column;
     min-height: 100vh;
