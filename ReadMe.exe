@@ -1,12 +1,10 @@
 Global Weather-Search-App
                                             
                                             
-                                            
-                                            
-[Open App]: https://weather-app-basic-v.herokuapp.com/
- 
-
-1. Git Clone the Repository/ File.
-2. Run the File on your locatHost.
-3. Search For City.
-4. Check the weather.
+                                                                   
+1.[Open App]: https://weather-app-basic-v.herokuapp.com/
+TO Run Locally,
+2.Git Clone the Repository/ File.
+3. Run the File on your locatHost.
+4. Search For City.
+5. Check the weather.
